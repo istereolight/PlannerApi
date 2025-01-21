@@ -8,5 +8,5 @@ services:
   react-app:
     build: ../Planner
     ports:
-      - '80:80'
+      - '5000:5000'
   
